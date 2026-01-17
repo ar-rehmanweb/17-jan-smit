@@ -8,5 +8,8 @@ let obj = {
 // .parse ka method string ko orgnial form mai lata hai
 
 
-
+     /*arrow function syntax*/
 // const varname = () => {}
+
+
+    
