@@ -1,15 +1,21 @@
-let obj = {
-    name: "hasan",   /*json mai key aur value dono string mai hoti hai*/
-    email: "coder@gmail.com",
-    password: "sbfduwd9ufwifh"
-}
+// let obj = {
+//     name: "hasan",   /*json mai key aur value dono string mai hoti hai*/
+//     email: "coder@gmail.com",
+//     password: "sbfduwd9ufwifh"
+// }
 
 
-// .parse ka method string ko orgnial form mai lata hai
+// // .parse ka method string ko orgnial form mai lata hai
 
 
-     /*arrow function syntax*/
-// const varname = () => {}
+//      /*arrow function syntax*/
+// // const varname = () => {}
 
 
-    
+// let obj = {
+//     name : "hasan" ,
+//     getFUllName : function (){
+//         console.log(this) 
+//     }
+// } do
+
